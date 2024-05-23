@@ -1,0 +1,11 @@
+.mio {
+  font-size: 1rem;
+  margin-right: 0.125rem;
+}
+
+.contact-info {
+  p {
+    @apply flex flex-row items-center;
+
+  }
+}
